@@ -2,3 +2,4 @@ this is the  1st version of my project
 I want to use that on commit 2.
 This line for git file lifecycle architecture process.
 git deff and git deff --staged.
+This is changed for direct commit.
